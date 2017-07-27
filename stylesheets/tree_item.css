@@ -1,0 +1,48 @@
+.treez-logo {
+  height: 50px;
+  width: auto;
+}
+
+.treez-navbar {
+  width: 100%;
+  height: 64px;
+  background-color: #8A8A8A;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 8px;
+}
+
+.treez {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 100%;
+}
+
+.img-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 400px;
+  width: auto;
+}
+
+.tree-index-item-photo {
+
+  width: 100%;
+}
+
+.tree-index-item {
+  width: 25%;
+  border-bottom: 1px #e6e6e6 solid;
+  border-right: 1px #e6e6e6 solid;
+  box-sizing: border-box;
+  padding: 10px 0 15px;
+  margin: 0;
+  font-size: 14px;
+}
+
+.tree-index-item-information {
+  padding: 14px 0 0 14px;
+}
